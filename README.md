@@ -15,7 +15,7 @@ instagram用の写真に一括でフレームをつけるコード．
 加工後
 ![DSC_3941-2](https://github.com/TakuyaMitarai/PhotoFrameMaker/assets/106578561/3e62bbc0-d6ef-4663-8e2b-ac1714bdf9d6)
 
-**16:9の画像**　　 
+**16:9の画像**　　  
 加工前
 ![DSC_4153 3](https://github.com/TakuyaMitarai/PhotoFrameMaker/assets/106578561/822188b7-365b-44e0-82ae-c8c7a3e27364)
 
