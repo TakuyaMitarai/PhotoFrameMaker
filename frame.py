@@ -35,9 +35,9 @@ def add_frame_to_image(image_path, output_path):
             img_with_frame = img.copy()
         
         if exif_data:
-            img_with_frame.save(output_path, exif=exif_data)
+            img_with_frame.save(output_path, exif=exif_data, quality=100)
         else:
-            img_with_frame.save(output_path)
+            img_with_frame.save(output_path, quality=100)
 
 def process_images():
     input_dir = 'original'
