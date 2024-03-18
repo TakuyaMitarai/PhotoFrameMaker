@@ -1,11 +1,11 @@
 # PhotoFrameMaker
-instagram用の写真に一括でフレームをつけるコード．  
+Instagram用の写真に一括でフレームをつけるコード．  
 フレームの付け方には私の好みを反映させています．  
 **3:2の画像**   
 加工前
 ![DSC_3446](https://github.com/TakuyaMitarai/PhotoFrameMaker/assets/106578561/5f3b085a-9c7e-41aa-9013-a4c4d5dc44e2)
 
-加工後
+加工後 ※元画像がAdobeRGBの場合，このように色が変わってしまうのでsRGBで書き出す必要があります．
 ![DSC_3446-2](https://github.com/TakuyaMitarai/PhotoFrameMaker/assets/106578561/a399847e-097f-44b5-a44a-3833e1a1ec01)
 
 **2:3の画像**  
