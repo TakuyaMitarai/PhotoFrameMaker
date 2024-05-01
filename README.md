@@ -1,6 +1,5 @@
 # PhotoFrameMaker
-Instagram用の写真に一括でフレームをつけるコード．  
-フレームの付け方には私の好みを反映させています．  
+Instagram用の写真に一括でフレームをつけるコード．   
 **3:2の画像**   
 加工前
 ![DSC_3446](https://github.com/TakuyaMitarai/PhotoFrameMaker/assets/106578561/5f3b085a-9c7e-41aa-9013-a4c4d5dc44e2)
